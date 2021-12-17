@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "759179265161",
+    "project_id": "examen3-7ac79",
+    "storage_bucket": "examen3-7ac79.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:759179265161:android:2875fcd0c5cfc21c8ff258",
+        "android_client_info": {
+          "package_name": "com.example.pm1e3_bairon_vallecillo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "759179265161-8vqndh5km9lsnumoprn5tva5ivhdm2vg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDf4-waHbfg81wcg52lD9vHu2BbWOWwJQc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "759179265161-8vqndh5km9lsnumoprn5tva5ivhdm2vg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
